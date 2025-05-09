@@ -12,12 +12,14 @@
   <body>
     <i> 09 may 2025 </i>
     <br> 
-    <strong> sports football </strong>
+    <strong> Gymanstics around the world </strong>
     <br>
-    <p> I like alot traveling around the world </p>
+    <p> i like alot doing Gymnastics </p>
     <a href=""> partial ict
     <ul>
     <strong>  Travel  </strong>
-      <p> I travel around all the world and i like it but my favorite place is amsterdam because of all the thinhs you do there and the places are beutiful and in mexico my favorite place is puerto escondido i go once a year and me and my dad we love it  </p>
-     <strong>   About me  </strong>  
-      <p>  my birthday is on January 20th 2011. I have a little brother, a dog and a cat  </p>
+      <p> I like to travel because I like to know new places and see how different it is compared to my country. I also like to know about new cultures and how things work in different countries.  </p>
+     <strong>   gymnastics  </strong>  
+      <p> I practise gymnastics and this makes me travel more because the competitions are in different parts of Mexico and the world. </p>
+     <strong>   About me  </strong> 
+     <p>  my  birthday is on August  26th 2011. I have 2 brothers , a boy of 18 and a girl of 8  </p>
